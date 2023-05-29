@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sen Misin Değil Misin", "Sen Misin Değil Misin.vcxproj", "{590A9AA7-83B8-4D99-B15A-263A671DC4F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590A9AA7-83B8-4D99-B15A-263A671DC4F9}.Debug|x64.ActiveCfg = Debug|x64
+		{590A9AA7-83B8-4D99-B15A-263A671DC4F9}.Debug|x64.Build.0 = Debug|x64
+		{590A9AA7-83B8-4D99-B15A-263A671DC4F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{590A9AA7-83B8-4D99-B15A-263A671DC4F9}.Debug|x86.Build.0 = Debug|Win32
+		{590A9AA7-83B8-4D99-B15A-263A671DC4F9}.Release|x64.ActiveCfg = Release|x64
+		{590A9AA7-83B8-4D99-B15A-263A671DC4F9}.Release|x64.Build.0 = Release|x64
+		{590A9AA7-83B8-4D99-B15A-263A671DC4F9}.Release|x86.ActiveCfg = Release|Win32
+		{590A9AA7-83B8-4D99-B15A-263A671DC4F9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E50AB833-BA60-4F9E-97F5-4F68B8A67DCF}
+	EndGlobalSection
+EndGlobal
